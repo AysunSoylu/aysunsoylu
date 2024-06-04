@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **AysunSoylu/aysunsoylu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-aysun soylu
-deneme
-123
-yavuz 
-123
+👋 Hey there! I'm a passionate frontend developer and student dedicated to honing my skills in JavaScript, HTML, CSS, and React. Through self-driven research, hands-on projects, and continuous learning, I'm constantly striving to enhance my expertise in these foundational languages. You'll often find me exploring articles, watching relevant video tutorials, and building small applications to reinforce my knowledge.
+
+🌱 I'm always eager to collaborate on exciting projects and connect with fellow developers. Let's build something awesome together and learn from each other along the way! Feel free to reach out—I'm excited to connect with like-minded individuals and grow together.
