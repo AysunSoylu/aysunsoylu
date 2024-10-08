@@ -1,6 +1,6 @@
-# I'm [Aysun]
+#                                                       I'm Aysun
 
-Jr. Frontend Developer
+ Jr. Frontend Developer
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/aysunsoylu/))
 
