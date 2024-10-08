@@ -1,18 +1,16 @@
+# I'm [Aysun]
 
-<!--
-**AysunSoylu/aysunsoylu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jr. Frontend Developer
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/aysunsoylu/))
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 Hey there! I'm a passionate frontend developer and student dedicated to honing my skills in JavaScript, HTML, CSS, and React. Through self-driven research, hands-on projects, and continuous learning, I'm constantly striving to enhance my expertise in these foundational languages. You'll often find me exploring articles, watching relevant video tutorials, and building small applications to reinforce my knowledge.
-
+## Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></p>
 🌱 I'm always eager to collaborate on exciting projects and connect with fellow developers. Let's build something awesome together and learn from each other along the way! Feel free to reach out—I'm excited to connect with like-minded individuals and grow together.
